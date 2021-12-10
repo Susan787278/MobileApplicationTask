@@ -11,3 +11,6 @@ https://s10.gifyu.com/images/ezgif.com-gif-maker-24493bd255bbd0f99.gif
 
 The .gif for layout editor of linear layout link is given below: 
 https://s10.gifyu.com/images/ezgif.com-gif-maker9641bca25a61242a.gif
+
+The .gif for challenge of linear layout is given below:
+https://i.ibb.co/XjN7snt/challenge2.png
