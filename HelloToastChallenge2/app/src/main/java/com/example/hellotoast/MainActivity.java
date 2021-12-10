@@ -7,9 +7,6 @@ import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.android.hellotoast.R;
-
-
 public class MainActivity extends AppCompatActivity {
 
     private int mCount = 0;
